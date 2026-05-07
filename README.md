@@ -18,8 +18,10 @@ I am a Backend Developer and a student at Samara University. I love building rel
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 **Databases & Cache:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
 
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,6 +42,7 @@ I am a Backend Developer and a student at Samara University. I love building rel
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amir21020&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
+
 
 
 ## 🌐 Connect with me
