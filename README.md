@@ -46,7 +46,7 @@ I am a Backend Developer and a student at Samara University. I love building rel
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+ <img src="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-contribution-grid-snake.svg" alt="snake" width="500px" />
 </p>
 
 ## 🌐 Connect with me
