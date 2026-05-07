@@ -38,16 +38,9 @@ I am a Backend Developer and a student at Samara University. I love building rel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir21020&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir21020&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amir21020&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-contribution-grid-snake.svg" alt="snake" width="500px" />
-</p>
 
 ## 🌐 Connect with me
 
