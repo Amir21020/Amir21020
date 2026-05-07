@@ -2,7 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
+    # Запускается каждые 6 часов
     - cron: "0 */6 * * *"
+  # Позволяет запускать Action вручную с вкладки Actions
   workflow_dispatch:
 
 permissions:
@@ -12,8 +14,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Обновлено до v4
       - uses: actions/checkout@v4
 
+      # Генерация змейки
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -21,8 +25,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Показ статуса для отладки
       - run: git status
 
+      # Пуш изменений в ветку main
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -30,6 +36,7 @@ jobs:
           branch: main
           force: true
 
+      # Публикация в ветку output
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
