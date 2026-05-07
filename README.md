@@ -6,7 +6,7 @@
 
 I am a Backend Developer and a student at Samara University. I love building reliable architectural solutions and learning modern web technologies.
 
-- 🎓 Studying Software Engineering and Computer Science.
+- 🎓 Studying Fundamental Informatics and Information Technology (FIIT).
 - 💻 Currently diving deep into **ASP.NET Core** and microservices architecture.
 - 🚀 Actively looking for internship opportunities or a Junior Backend Developer position.
 - 📫 How to reach me: via **[Telegram](https://t.me/Mergalievr)** or email at **mergalievradmir484@gmail.com**.
@@ -17,11 +17,8 @@ I am a Backend Developer and a student at Samara University. I love building rel
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-**Databases & Cache:**
-<div>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</div>
+**Databases & Cache:**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +39,6 @@ I am a Backend Developer and a student at Samara University. I love building rel
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amir21020&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
-
 
 
 ## 🌐 Connect with me
