@@ -7,14 +7,7 @@ on:
   # Schedule the workflow to run daily at midnight UTC
 
   schedule:
-
     - cron: "0 0 * * *"
-
-permissions:
-
-  contents: write
-
-
 
   # Allow manual triggering of the workflow
 
@@ -27,8 +20,12 @@ permissions:
   push:
 
     branches:
-
       - main
+
+permissions:
+
+  contents: write
+
 
 
 
