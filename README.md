@@ -33,6 +33,7 @@ I am a Backend Developer and a student at Samara University. I love building rel
 
 * 🤖 **[Telegram Bot](https://github.com/Amir21020/DatingTelegramBot)** — A multifunctional Telegram bot with integrated chat features. Built with C# and Telegram.Bot API, focusing on fast response times and solid architecture.
 * 🔹 **[Chat](https://github.com/Amir21020/Chat)** — A real-time chat application built with React.
+* 🛵 **[FoodDelivery](https://github.com/Amir21020/FoodDelivery)** — A full-stack food delivery platform. ASP.NET Core + MassTransit/RabbitMQ with Outbox, PostgreSQL, and a React SPA with real-time order tracking via SignalR.
 
 ## 📊 GitHub Stats
 
