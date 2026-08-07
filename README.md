@@ -41,6 +41,15 @@ I am a Backend Developer and a student at Samara University. I love building rel
 </p>
 
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amir21020/Amir21020/output/github-snake.svg" />
+</picture>
+
+
 ## 🌐 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mergalievr)
